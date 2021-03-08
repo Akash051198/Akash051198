@@ -4,7 +4,7 @@
 
 I am Akash...and I enjoy being challenged and engaging with projects as continuing to learn new languages and technologies like python, AWS and so..,
 
-##SKILLS:
+## SKILLS:
 * 🐍 Python
 * ☁  AWS
 * MySQL
