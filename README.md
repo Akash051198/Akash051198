@@ -1,9 +1,3 @@
-### Hi there 👋
-
-I am Akash...and I enjoy being challenged and engaging with projects as continuing to learn new languages and technologies like python, AWS and so..,
-
-
-
 
 ### Hi there 👋, Akash
 #### AWS cloud and python development
